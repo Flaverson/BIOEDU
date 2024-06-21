@@ -1,0 +1,1 @@
+var userRegistrationApp = angular.module('userRegistrationApp', []);
